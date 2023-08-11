@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    width: 70%;
+    min-width: 400px;
+    height: 500px;
+    background-color: rgba(.5,.5,.5,.5);
+    margin:auto;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 20px;
+    color:white;
+}
+main textarea{
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 30%;
+    max-height: 60% ;
+    border-radius: 20px 20px 0px 0px;
+    padding: 15px;
+}
+button{
+    width: 150px;
+    height: 60px;
+    background-color:rgb(3, 114, 114);
+    border: 0px;
+}
+button:active{
+    background-color:rgb(7, 58, 58);
+}
