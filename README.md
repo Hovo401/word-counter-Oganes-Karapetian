@@ -1,1 +1,0 @@
-# word-counter-Oganes-Karapetian
